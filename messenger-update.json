@@ -1,6 +1,6 @@
 {
-  "version": "v429.0.0.37.111",
-  "versionCode": 2,
-  "zipUrl": "https://github.com/vn-ncvinh/revanced-magisk-module/releases/download/2/messenger-revanced-magisk-v429.0.0.37.111-arm64-v8a.zip",
+  "version": "v430.0.0.38.101",
+  "versionCode": 3,
+  "zipUrl": "https://github.com/vn-ncvinh/revanced-magisk-module/releases/download/3/messenger-revanced-magisk-v430.0.0.38.101-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/vn-ncvinh/revanced-magisk-module/update/build.md"
 }
