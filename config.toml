@@ -21,3 +21,7 @@ included-patches = "'Seekbar tapping' 'Swipe controls' 'Hide ads' 'Video ads' 'O
 exclusive-patches = true
 
 
+[Tiktok]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok/"
+apkmirror-arch = "arm64-v8a"
+build-mode = "both"
