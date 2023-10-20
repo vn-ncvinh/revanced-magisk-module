@@ -1,5 +1,5 @@
 Music: 6.22.51  
-Messenger: 430.1.0.46.101  
+Messenger: 431.1.0.35.116  
 YouTube: 18.38.44  
 Tiktok: 30.8.4  
 
@@ -10,6 +10,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouT
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.0.2-all.jar  
-Integrations: ReVanced/revanced-integrations-0.119.2.apk  
-Patches: ReVanced/revanced-patches-2.194.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v2.194.0)  
+Integrations: ReVanced/revanced-integrations-0.120.0.apk  
+Patches: ReVanced/revanced-patches-2.195.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v2.195.0)  
