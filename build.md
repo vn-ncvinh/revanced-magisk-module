@@ -1,6 +1,5 @@
-Music: 6.22.51  
-Messenger: 431.1.0.35.116  
 YouTube: 18.38.44  
+Music: 6.23.54  
 Tiktok: 30.8.4  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
