@@ -1,6 +1,6 @@
 YouTube: 18.38.44  
-Twitter: 10.15.0-release.0  
-Messenger: 434.0.0.30.104  
+Music: 6.28.52  
+Twitter: 10.16.0-release.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
