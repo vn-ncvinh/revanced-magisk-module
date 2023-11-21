@@ -1,6 +1,6 @@
 {
   "version": "v10.16.0-release.0",
-  "versionCode": 13,
-  "zipUrl": "https://github.com/vn-ncvinh/revanced-magisk-module/releases/download/13/twitter-revanced-magisk-v10.16.0-release.0-arm64-v8a.zip",
+  "versionCode": 14,
+  "zipUrl": "https://github.com/vn-ncvinh/revanced-magisk-module/releases/download/14/twitter-revanced-magisk-v10.16.0-release.0-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/vn-ncvinh/revanced-magisk-module/update/build.md"
 }
