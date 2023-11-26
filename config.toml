@@ -9,7 +9,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
-included-patches = "'Open links externally' 'Spoof app version' 'Client spoof' 'Minimized playback' 'Vanced MicroG support' 'Remember video quality' 'Old video quality menu' 'HDR auto brightness' 'Video ads' 'Hide ads' 'Copy video url' 'Seekbar tapping' 'Premium heading' 'Hide crowdfunding box' 'Hide info cards' 'Hide breaking news shelf' 'Hide endscreen cards' 'Disable Shorts on startup' 'SponsorBlock' 'Theme' 'Disable player popup panels'"
+included-patches = "'Open links externally' 'Client spoof' 'Minimized playback' 'Vanced MicroG support' 'Remember video quality' 'Old video quality menu' 'HDR auto brightness' 'Video ads' 'Hide ads' 'Copy video url' 'Seekbar tapping' 'Premium heading' 'Hide crowdfunding box' 'Hide info cards' 'Hide breaking news shelf' 'Hide endscreen cards' 'Disable Shorts on startup' 'SponsorBlock' 'Theme' 'Disable player popup panels'"
 exclusive-patches = true
 
 [Music]
