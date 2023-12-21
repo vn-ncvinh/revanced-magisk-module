@@ -9,7 +9,7 @@ build-mode = "module"
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
-included-patches = "'Hide ads' 'Video ads' 'Disable resuming Shorts on startup' 'Premium heading' 'Disable player popup panels' 'SponsorBlock' 'Hide crowdfunding box' 'Hide endscreen cards' 'Hide breaking news shelf' 'Disable fullscreen ambient mode' 'Theme' 'Restore old seekbar thumbnails' 'Bypass URL redirects' 'Minimized playback' 'Restore old video quality menu' 'Remember video quality' 'Seekbar tapping' 'Enable slide to seek'"
+included-patches = "'Hide ads' 'Client spoof' 'Video ads' 'Disable resuming Shorts on startup' 'Premium heading' 'Disable player popup panels' 'SponsorBlock' 'Hide crowdfunding box' 'Hide endscreen cards' 'Hide breaking news shelf' 'Disable fullscreen ambient mode' 'Theme' 'Restore old seekbar thumbnails' 'Bypass URL redirects' 'Minimized playback' 'Restore old video quality menu' 'Remember video quality' 'Seekbar tapping' 'Enable slide to seek'"
 exclusive-patches = true
 
 [Twitter]
