@@ -1,23 +1,20 @@
 logging-to-file = true        # enables logging of every patch process to a seperate file
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
 
-[Messenger]
-apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
-arch = "arm64-v8a"
-build-mode = "module"
-
-[YouTube]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-build-mode = "both"
-included-patches = "'Hide ads' 'Client spoof' 'Video ads' 'Disable resuming Shorts on startup' 'Premium heading' 'Disable player popup panels' 'SponsorBlock' 'Hide crowdfunding box' 'Hide endscreen cards' 'Hide breaking news shelf' 'Disable fullscreen ambient mode' 'Theme' 'Restore old seekbar thumbnails' 'Bypass URL redirects' 'Minimized playback' 'Restore old video quality menu' 'Remember video quality' 'Seekbar tapping' 'Enable slide to seek'"
-exclusive-patches = true
-
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 arch = "arm64-v8a"
-build-mode = "module"
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 arch = "arm64-v8a"
-build-mode = "module"
+
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+build-mode = "both"
+included-patches = "'Swipe controls' 'Copy video URL' 'Seekbar tapping' 'Disable precise seeking gesture' 'Enable slide to seek' 'Remove viewer discretion dialog' 'Hide ads' 'Video ads' 'Spoof device dimensions' 'Minimized playback' 'Remove tracking query parameter' 'Client spoof' 'Announcements' 'Bypass URL redirects' 'Open links externally' 'Disable player popup panels' 'Restore old seekbar thumbnails' 'Theme' 'SponsorBlock' 'Disable resuming Shorts on startup' 'Disable suggested video end screen' 'Hide crowdfunding box' 'Hide breaking news shelf' 'Restore old video quality menu' 'Remember video quality'"
+exclusive-patches = true
+
+[Messenger]
+apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+arch = "arm64-v8a"
