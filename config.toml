@@ -16,3 +16,8 @@ build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 arch = "arm64-v8a"
 build-mode = "module"
+
+[Messenger]
+apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+arch = "arm64-v8a"
+build-mode = "module"
