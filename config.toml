@@ -3,21 +3,5 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-build-mode = "both"
 included-patches = "'Remember video quality' 'Restore old video quality menu' 'Video ads' 'Hide ads' 'Disable resuming Shorts on startup' 'SponsorBlock' 'Theme' 'Hide breaking news shelf' 'Disable suggested video end screen' 'Hide crowdfunding box' 'Hide endscreen cards' 'Disable player popup panels' 'Restore old seekbar thumbnails' 'Spoof app version' 'Bypass URL redirects' 'Open links externally' 'Client spoof' 'Spoof device dimensions' 'Minimized playback' 'GmsCore support' 'Remove tracking query parameter' 'Remove viewer discretion dialog' 'Copy video URL' 'Swipe controls' 'Enable slide to seek' 'Seekbar tapping'"
 exclusive-patches = true
-
-[Twitter]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-arch = "arm64-v8a"
-build-mode = "module"
-
-[Music]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-arch = "arm64-v8a"
-build-mode = "module"
-
-[Messenger]
-apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
-arch = "arm64-v8a"
-build-mode = "module"
