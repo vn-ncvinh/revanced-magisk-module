@@ -23,5 +23,5 @@ exclusive-patches = true
 [Messenger]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
 arch = "arm64-v8a"
-exclusive-patches = "'Disable switching emoji to sticker'"
+included-patches = "'Disable typing indicator' 'Hide inbox ads'"
 build-mode = "module"
