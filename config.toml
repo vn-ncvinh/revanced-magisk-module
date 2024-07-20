@@ -18,7 +18,7 @@ build-mode = "module"
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
-included-patches = "'Announcements' 'Bypass URL redirects' 'Change header' 'Disable auto captions' 'Disable fullscreen ambient mode' 'Disable player popup panels' 'Disable precise seeking gesture' 'Disable resuming Shorts on startup' 'Disable rolling number animations' 'Disable suggested video end screen' 'Enable slide to seek' 'Hide ads' 'Hide crowdfunding box' 'Hide endscreen cards' 'Miniplayer' 'Remember video quality' 'Restore old seekbar thumbnails' 'Return YouTube Dislike' 'Restore old video quality menu' 'SponsorBlock' 'Seekbar tapping' 'Spoof app version' 'Spoof client' 'Theme' 'Video ads'"
+included-patches = "'Bypass URL redirects' 'Disable auto captions' 'Disable fullscreen ambient mode' 'Disable player popup panels' 'Disable precise seeking gesture' 'Disable resuming Shorts on startup' 'Disable rolling number animations' 'Disable suggested video end screen' 'Enable slide to seek' 'Hide ads' 'Hide crowdfunding box' 'Hide endscreen cards' 'Remember video quality' 'Restore old seekbar thumbnails' 'Return YouTube Dislike' 'Restore old video quality menu' 'SponsorBlock' 'Seekbar tapping' 'Spoof app version' 'Spoof client' 'Theme' 'Video ads'"
 exclusive-patches = true
 
 [Messenger]
