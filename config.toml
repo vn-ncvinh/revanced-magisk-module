@@ -7,6 +7,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+arch = "arm64-v8a"
 build-mode = "module"
 
 [Music]
