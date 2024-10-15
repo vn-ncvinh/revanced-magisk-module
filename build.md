@@ -1,5 +1,4 @@
-Music: 7.22.52  
-Messenger: 439.0.0.29.119  
+Twitter: 10.48.0-release.0  
 YouTube: 19.16.39  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
