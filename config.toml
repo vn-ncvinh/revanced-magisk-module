@@ -7,6 +7,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+build-mode = "module"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
@@ -17,3 +18,4 @@ exclusive-patches = true
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 included-patches = "'Open links with app chooser'"
+build-mode = "module"
