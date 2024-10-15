@@ -5,23 +5,15 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 # you can use rvmm-config-gen to generate a config
 
-[Twitter]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-build-mode = "module"
-
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-arch = "arm64-v8a"
-build-mode = "module"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
-included-patches = "'Bypass URL redirects' 'Disable auto captions' 'Disable fullscreen ambient mode' 'Disable player popup panels' 'Disable precise seeking gesture' 'Disable resuming Shorts on startup' 'Disable rolling number animations' 'Disable suggested video end screen' 'Enable slide to seek' 'Hide ads' 'Hide crowdfunding box' 'Hide endscreen cards' 'Remember video quality' 'Restore old seekbar thumbnails' 'Return YouTube Dislike' 'Restore old video quality menu' 'SponsorBlock' 'Seekbar tapping' 'Spoof app version' 'Spoof client' 'Theme' 'Video ads'"
+included-patches = "'Remove viewer discretion dialog' 'Disable precise seeking gesture' 'Seekbar tapping' 'Enable slide to seek' 'Copy video URL' 'Restore old video quality menu' 'Remember video quality' 'Miniplayer' 'Theme' 'Restore old seekbar thumbnails' 'Disable suggested video end screen' 'Hide crowdfunding box' 'Hide endscreen cards' 'Disable rolling number animations' 'Disable resuming Shorts on startup' 'Disable player popup panels' 'SponsorBlock' 'Bypass URL redirects' 'Open links externally' 'GmsCore support' 'Spoof video streams' 'Video ads' 'Hide ads'"
 exclusive-patches = true
 
-[Messenger]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
-arch = "arm64-v8a"
-included-patches = "'Disable typing indicator' 'Hide inbox ads'"
-build-mode = "module"
+[Twitter]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+included-patches = "'Open links with app chooser'"
